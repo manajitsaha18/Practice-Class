@@ -1,2 +1,2 @@
 # Practice-Class
-This is for practice git &amp; github class
+This is for practice git &amp; github class.
